@@ -14,6 +14,8 @@ Certificates:
 
 #Build a Data Science Web App with Streamlit and Python
 
+#Calculating Descriptive Statistics in R
+ 
 #NEURAL-NETWORK-FROM-SCRATCH-USING-TENSORFLOW
 
 Overall, this portfolio of certificates showcases my knowledge and skills in data science, including data analysis, data visualization, machine learning, and SQL. These certificates demonstrate my ability to apply these concepts in real-world scenarios and solve problems using data-driven approaches.
